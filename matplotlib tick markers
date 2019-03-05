@@ -1,0 +1,3 @@
+###### ASSUMING matplotlib.pyplot is imported as plt
+
+plt.xticks([X-axis values],[tick markers to be put])
